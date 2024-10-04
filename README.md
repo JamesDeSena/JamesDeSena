@@ -41,14 +41,14 @@ Hi, I’m a **BS Information Systems graduate** passionate about tech and solvin
 
 ## 📫 Contact Me
 
-| ![Gmail Badge](https://img.shields.io/badge/-jamesdesena27@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white) [Email Me](mailto:jamesdesena27@gmail.com) | [![LinkedIn Badge](https://img.shields.io/badge/-James%20De%20Sena-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/james-desena) | [![Discord Badge](https://img.shields.io/badge/-kaaoruu%237542-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/kaaoruu) |
+| ![Gmail Badge](https://img.shields.io/badge/-jamesdesena27@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white) (mailto:jamesdesena27@gmail.com) | [![LinkedIn Badge](https://img.shields.io/badge/-James%20De%20Sena-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/james-desena) | [![Discord Badge](https://img.shields.io/badge/-kaaoruu%237542-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/kaaoruu) |
 | --- | --- | --- |
 
 ---
 
 ## 📊 GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesDeSena&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesDeSena&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesDeSena&show_icons=true&theme=radical&hide_title=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesDeSena&layout=compact&theme=radical&hide_title=true) |
 | --- | --- |
 
 ---
