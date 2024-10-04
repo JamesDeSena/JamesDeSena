@@ -54,9 +54,3 @@ Hi, I’m a **BS Information Systems graduate** passionate about tech and solvin
 | [![Gmail Badge](https://img.shields.io/badge/-jamesdesena27@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=jamesdesena27@gmail.com) | [![LinkedIn Badge](https://img.shields.io/badge/-James%20De%20Sena-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/james-desena) | [![Discord Badge](https://img.shields.io/badge/-kaaoruu%237542-5865F2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/kaaoruu) |
 | --- | --- | --- |
 
----
-
-## 📊 Top Languages
-
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesDeSena&layout=compact&theme=radical&hide_title=true&height=150) |
-| --- |
