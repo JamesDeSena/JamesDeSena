@@ -46,9 +46,7 @@ Hi, I’m a **BS Information Systems graduate** passionate about tech and solvin
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamesDeSena&show_icons=true&theme=radical&hide_title=true&height=150) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesDeSena&layout=compact&theme=radical&hide_title=true&height=150) |
-| --- | --- |
-
----
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesDeSena&layout=compact&theme=radical&hide_title=true&height=150) |
+| --- |
